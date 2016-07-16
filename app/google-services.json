@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223508628917",
+    "project_id": "pythonproram1337"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223508628917:android:6e8865af5ab25263",
+        "android_client_info": {
+          "package_name": "com.example.varun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223508628917-dtqkb4v9cuv754ogav67uvunpjsl12h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varun",
+            "certificate_hash": "ED090D0EA9863B79E46EC64253F156DAD09D8073"
+          }
+        },
+        {
+          "client_id": "223508628917-b6hm4vvarqulgtct9pg4cncei6c6q4gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KhIXxt0jMBYDEP_1HWcndo48RrKfk0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
